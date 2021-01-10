@@ -1,0 +1,31 @@
+#items-needed {
+  color: red;
+}
+
+h1 {
+  color: rgb(0, 110, 255);
+  font-family: sans-serif;
+}
+
+.italic-text {
+  font-style: italic;
+}
+
+p {
+  color: rgb(216, 5, 216);
+  font-style: italic;
+  font-size: 21px;
+}
+h2 {
+  color: palegreen;
+}
+
+li {
+  color: rgb(255, 0, 0);
+  font-weight: bold;
+}
+
+.centered {
+  display: block;
+  margin: auto;
+}
